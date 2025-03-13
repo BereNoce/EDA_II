@@ -1,0 +1,14 @@
+---
+profesor: Fco
+alumnos:
+  - semestre: 3
+    nombre: Bart
+    promedio: 6.10
+  - semestre: 2
+    nombre: Liza
+    promedio: 10.00
+  - semestre: 3
+    nombre: Milhouse
+    promedio: 9.50
+
+...

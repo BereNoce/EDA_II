@@ -1,0 +1,11 @@
+{
+"semestre": "2022-2",
+"grupo": "3",
+"profesor": "Fco",
+"finalizado": "false",
+"alumnos": [
+{ "nombre": "Bart", "semestre": 3, "promedio": 6.10 },
+{ "nombre": "Liza", "semestre": 2, "promedio": 10.00 },
+{ "nombre": "Milhouse", "semestre": 3, "promedio": 9.50 }
+]
+}
